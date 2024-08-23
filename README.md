@@ -4,12 +4,19 @@ This project involves the creation and population of a relational database for H
 
 ### Table of Contents
 • Database Structure
+
 • Entity-Relationship Diagram (ERD)
+
 • Key Entities and Relationships
+
 • Database Population
+
 • Queries and Views
-•  Key Queries
+
+• Key Queries
+
 • Views
+
 • DataMart Integration
 
 ### Database Structure
