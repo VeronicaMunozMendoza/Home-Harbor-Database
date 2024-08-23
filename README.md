@@ -5,7 +5,7 @@ This project involves the creation and population of a relational database for H
 ### Table of Contents
 
 Overview [ ]
-Database Structure
+[Database Structure] [#Database-Structure]
 Entity-Relationship Diagram (ERD)
 Key Entities and Relationships
 Database Population
