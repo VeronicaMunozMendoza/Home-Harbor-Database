@@ -3,16 +3,14 @@
 This project involves the creation and population of a relational database for HomeHarbor Essentials, an online retail business specializing in Home and Kitchen products. The database is designed to efficiently store and manage crucial information such as Stock, Customer Details, Orders, Suppliers, Payments, and Returns.
 
 ### Table of Contents
-
-
-[Database Structure] (### Database Structure)
-[Entity-Relationship Diagram (ERD)](#### Entity-Relationship Diagram (ERD))
-[Key Entities and Relationships](#Key Entities and Relationships)
-[Database Population] (#Database Population)
-[Queries and Views] (#Queries and Views)
-[Triggers] (#Triggers)
-[DataMart Integration] (#DataMart Integration)
-
+• Database Structure
+• Entity-Relationship Diagram (ERD)
+• Key Entities and Relationships
+• Database Population
+• Queries and Views
+•  Key Queries
+• Views
+• DataMart Integration
 
 ### Database Structure
 
