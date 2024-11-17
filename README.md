@@ -66,4 +66,4 @@ A trigger is created to update stock levels whenever a sale takes place, ensurin
 
 The project includes the creation of a DataMart, integrating views from queries 1, 3, and 4 to facilitate efficient data analysis.
 
-Please find SQL Project Script: https://github.com/mohamedabdelnasser414/HomeHarbor-Essentials-Database-SQL-Project/blob/main/ProjectScript.sql 
+Please find SQL Project Script: https://github.com/VeronicaMunozMendoza/Home-Harbor-Database/blob/main/script.sql
